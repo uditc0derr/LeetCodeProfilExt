@@ -98,6 +98,4 @@ These queries are then sent from the `leetcodeService.js` to the LeetCode GraphQ
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the MIT License.
